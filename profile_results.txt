@@ -1,0 +1,17 @@
+         10 function calls in 2.005 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 C:\Users\38099\PycharmProjects\profiler\main.py:9(calculate_factorial)
+        1    0.000    0.000    2.005    2.005 C:\Users\38099\PycharmProjects\profiler\main.py:29(main)
+        1    0.000    0.000    2.004    2.004 C:\Users\38099\PycharmProjects\profiler\main.py:24(delay)
+        1    0.000    0.000    0.000    0.000 C:\Users\38099\PycharmProjects\profiler\main.py:19(calculate_cubes)
+        1    0.000    0.000    0.000    0.000 C:\Users\38099\PycharmProjects\profiler\main.py:20(<listcomp>)
+        1    0.000    0.000    0.000    0.000 C:\Users\38099\PycharmProjects\profiler\main.py:15(<listcomp>)
+        1    0.000    0.000    0.000    0.000 C:\Users\38099\PycharmProjects\profiler\main.py:14(calculate_squares)
+        1    2.004    2.004    2.004    2.004 {built-in method time.sleep}
+        1    0.000    0.000    0.000    0.000 {built-in method math.factorial}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
